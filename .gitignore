@@ -4,3 +4,4 @@ Eclipse/
 bin/
 .classpath
 .project
+*.class
